@@ -37,7 +37,8 @@ Demonstrating the brute force login attack which Ring is vulnerable against with
 First, you'll need a set of text files (ending with .txt) somewhere on your system
 with the credentials listed line by line as follows:
 
-`user1@email.com:password2`
+`user1@email.com:password1`
+
 `user2@email.com:password2`
 
 etc.
