@@ -1,7 +1,5 @@
-=====================
 Python Wardriver Project
-=====================
-
+========================
 _"Look ma! I'm a security researcher now!"_
 
 This is essentially a fork of the python-ring-doorbell project by @tchellomello ( https://github.com/tchellomello/python-ring-doorbell ),
