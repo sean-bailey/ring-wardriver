@@ -74,7 +74,7 @@ things too seriously.
 I heavily recommend instead of contributing to this repo instead contributing to its parent: https://github.com/tchellomello/python-ring-doorbell
 
 
-Credits && Thanks
+Credits and Thanks
 -----------------
 
 * Full accolades to @tchellomello for their python-ring-doorbell library ( https://github.com/tchellomello/python-ring-doorbell ) which this is essentially a fork of, however the purposes of this particular experiment did not constitute a "feature" to be added to that library.
