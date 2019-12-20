@@ -26,7 +26,6 @@ Installation
 
 Download the repository, cd in to the repo directory and run:
 
-.. code-block:: bash
 
     # Installing from github repo
     $ python setup.py install
@@ -53,7 +52,6 @@ instead if you'd like to know how the backends of this fantastic tool (seriously
 
 How to Integrate the Vulnerability Testing in to your own code:
 ---------------------------------------------------------------
-.. code-block:: python
 
     from ring_wardriver import Ring
     ringclient = Ring(username=ringuser, password=ringpass, select_proxy=True)
